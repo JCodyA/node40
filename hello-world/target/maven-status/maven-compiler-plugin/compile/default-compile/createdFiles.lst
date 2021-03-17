@@ -1,0 +1,6 @@
+com/HelloWorld/core/Template.class
+com/HelloWorld/HelloWorldApplication.class
+com/HelloWorld/health/TemplateHealthCheck.class
+com/HelloWorld/resources/HelloWorldResource.class
+com/HelloWorld/api/Saying.class
+com/HelloWorld/HelloWorldConfiguration.class
